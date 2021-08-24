@@ -1,16 +1,23 @@
-### Hi there 👋
+💻 Desarrollador de Software .NET CORE contando con más de 2 años de experiencia desarrollando aplicaciones web con las siguientes tecnologías: 
 
-<!--
-**stevenlizarzaburupezua/stevenlizarzaburupezua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🟪 .NET y .NET CORE:
+✔️ C# - Patrón MVC - REST API.
+✔️ Arquitectura DDD - Entity FrameWork Core.
 
-Here are some ideas to get you started:
+🟨 JavaScript:
+✔️ Angular - React - Jquery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌈  UI:
+✔️ Devextreme - Bootstrap - CSS 
+
+📊 Base De Datos: 
+✔️ SQL - Oracle.
+
+🛠 Herramientas De Desarrollo:
+✔️ Git - GitHub - Azure Devops.
+✔️ TFS - DevExpress.
+✔️ Owasp - SonarQube.
+
+📜 Reportes:
+✔️ Crystal Report - Reporting Services.
+✔️ Xtrareport (DevExpress).
