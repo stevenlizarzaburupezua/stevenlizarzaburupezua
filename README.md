@@ -1,6 +1,6 @@
-💻 Desarrollador de Software .NET CORE contando con más de 2 años de experiencia desarrollando aplicaciones web con las siguientes tecnologías: 
+💻 Over 2+ years of professional experience in working with following technologies:
 
-🟪 .NET y .NET CORE 🢂 C# - Patrón MVC - REST API - Arquitectura DDD - Entity FrameWork Core.
+🟪 .NET and .NET CORE 🢂 C# - MVC PATTERN - API REST - DDD Architecture - Entity FrameWork Core - SOLID - Test Driven Desing (TDD).
 
 🟨 JavaScript 🢂 Angular - React - Jquery.
 
