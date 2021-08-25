@@ -4,7 +4,7 @@
 
 🟨 JavaScript 🢂 Angular - React - Jquery.
 
-🌈 UI 🢂 Devextreme - Bootstrap - CSS 
+🌈 UI 🢂 Devextreme - Bootstrap - CSS. 
 
 📊 Base De Datos 🢂 SQL - Oracle.
 
