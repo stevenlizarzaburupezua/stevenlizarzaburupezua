@@ -1,4 +1,3 @@
-## GitHub Stats
 
 ### 🙎‍♂️ I’m Steven Lizarzaburu Pezúa.  
   
@@ -7,6 +6,8 @@
 ### 🧃 Fun Fact: I Drink Monster Energy Every Friday.   
 
 ### 👀 About Me: https://bit.ly/3vejbw6.  
+
+## GitHub Stats
 
 <div align="left">
   <a href="https://github.com/stevenlizarzaburupezua">
