@@ -1,12 +1,5 @@
-### ✔🙎‍♂️ I’m Steven Lizarzaburu Pezúa.  
-  
-
-### ✔👨‍💻 I Work At Experis - Perú.  
-  
-
 ### ✔👀 About Me: https://bit.ly/3vejbw6.  
   
-
 ### ✔🧃 Fun Fact: I Drink Monster Energy Every Friday.   
   
 ## GitHub Stats
