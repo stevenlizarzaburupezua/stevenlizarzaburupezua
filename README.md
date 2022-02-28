@@ -1,7 +1,3 @@
-### ✔👀 About Me: https://bit.ly/3vejbw6.  
-  
-### ✔🧃 Fun Fact: I Drink Monster Energy Every Friday.   
-  
 ## GitHub Stats
  
 <div align="left">
@@ -10,9 +6,8 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlizarzaburupezua&layout=compact"/>
 </div>
  
- ## Skills
+## Skills
   
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
