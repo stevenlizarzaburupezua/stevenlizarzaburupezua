@@ -1,8 +1,6 @@
 
-### 🙎‍♂️ I’m Steven Lizarzaburu Pezúa.  
-  
-### 👨‍💻 I Work At Experis   <img height="20px" src="https://user-images.githubusercontent.com/89370556/156010551-ff090246-f738-4a04-b229-7385e6e3f457.png"/>
-  
+### 🙎‍♂️ I’m Steven Lizarzaburu Pezúa <img height="20px" src="https://user-images.githubusercontent.com/89370556/156010551-ff090246-f738-4a04-b229-7385e6e3f457.png"/> 
+   
 ### 🧃 Fun Fact: I Drink Monster Energy Every Friday.   
 
 ### 👀 About Me: https://bit.ly/3vejbw6.  
