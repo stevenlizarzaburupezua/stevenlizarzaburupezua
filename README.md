@@ -2,17 +2,16 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" align="center" height="30%" width="50%" />
 </div>  
 
-## ✔🙎‍♂️ I’m Steven Lizarzaburu Pezúa.  
+### ✔🙎‍♂️ I’m Steven Lizarzaburu Pezúa.  
   
 
-## ✔👨‍💻 I Work At Experis - Perú.  
+### ✔👨‍💻 I Work At Experis - Perú.  
   
 
-## ✔👀 About Me: https://bit.ly/3vejbw6.  
+### ✔👀 About Me: https://bit.ly/3vejbw6.  
   
 
-## ✔🧃 Fun Fact: I Drink Monster Energy Every Friday.   
-
+### ✔🧃 Fun Fact: I Drink Monster Energy Every Friday.   
   
 ## GitHub Stats
  
