@@ -3,7 +3,7 @@
    
 ### 🧃 Fun Fact: I Drink Monster Energy Every Friday.   
 
-### 👀 About Me: https://bit.ly/3vejbw6.  
+### 👀 <a href="https://bit.ly/3vejbw6" target="_blank" >About Me</a>
 
 ## GitHub Stats
 
