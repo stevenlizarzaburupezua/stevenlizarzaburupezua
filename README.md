@@ -1,9 +1,12 @@
+## About Me
 
-### 🙎‍♂️ I’m Steven Lizarzaburu Pezúa <img height="20px" src="https://user-images.githubusercontent.com/89370556/156010551-ff090246-f738-4a04-b229-7385e6e3f457.png"/> 
-   
-### 🧃 Fun Fact: I Drink Monster Energy Every Friday
+#### 🙎‍♂️ I’m Steven Lizarzaburu Pezúa <img height="20px" src="https://user-images.githubusercontent.com/89370556/156010551-ff090246-f738-4a04-b229-7385e6e3f457.png"/>
 
-### 👀 <a href="https://bit.ly/3vejbw6" target="_blank" >About Me</a>
+#### 👨‍💻 I work as .NET Software Developer
+
+#### 😊 Fun Fact: I Drink Monster Energy Every Friday
+
+#### 👀 <a href="https://bit.ly/3vejbw6" target="_blank" >WebSite (Native Language)</a>
 
 ## GitHub Stats
 
