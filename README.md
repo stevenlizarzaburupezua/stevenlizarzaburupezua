@@ -1,12 +1,4 @@
-## Hey Guys 👨‍💻
-
-✔🙎‍♂️ I’m Steven Lizarzaburu Pezúa.
-
-✔🧃 Fun Fact: I Drink Monster Energy Every Friday. 
-
-✔👀 About Me: https://bit.ly/3vejbw6.
-
- ##
+## IMPROVING SOLUTIONS 👨‍💻 ##
  
 <div align="left">
   <a href="https://github.com/stevenlizarzaburupezua">
