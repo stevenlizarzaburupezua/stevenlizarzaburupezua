@@ -4,9 +4,9 @@
   
 ### ✔👨‍💻 I Work At Experis - Perú.  
   
-### ✔👀 About Me: https://bit.ly/3vejbw6.  
-  
 ### ✔🧃 Fun Fact: I Drink Monster Energy Every Friday.   
+
+### ✔👀 About Me: https://bit.ly/3vejbw6.  
 
 <div align="left">
   <a href="https://github.com/stevenlizarzaburupezua">
