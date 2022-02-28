@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" align="center" height="60%" width="60%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" align="center" height="30%" width="30%" />
 </div>  
 
 ## ✔🙎‍♂️ I’m Steven Lizarzaburu Pezúa.  
