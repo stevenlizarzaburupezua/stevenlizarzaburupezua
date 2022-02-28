@@ -1,4 +1,6 @@
-## IMPROVING SOLUTIONS 👨‍💻 ##
+ <div align="center">
+  <img align="center" height="200em" src="./header.png"/>
+</div>
  
 <div align="left">
   <a href="https://github.com/stevenlizarzaburupezua">
@@ -17,6 +19,7 @@
 </div>
  
  ##
+
 
 <div align="center" > 
   
