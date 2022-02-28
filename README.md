@@ -2,11 +2,7 @@
 
 ✔🙎‍♂️ I’m Steven Lizarzaburu Pezúa.
 
-✔👨‍💻 I Work At Experis As Software Developer .NET.
-
 ✔🧃 Fun Fact: I Drink Monster Energy Every Friday. 
-
-✔📚 I Blog About Coding (Native Language) (Coming Soon)
 
 ✔👀 About Me: https://bit.ly/3vejbw6.
 
