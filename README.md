@@ -12,8 +12,8 @@
 
 <div align="left">
   <a href="https://github.com/stevenlizarzaburupezua">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=stevenlizarzaburupezua&hide=contribs,prs"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlizarzaburupezua&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=stevenlizarzaburupezua&hide=contribs,prs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlizarzaburupezua&layout=compact"/>
 </div>
  
 ## Skills
