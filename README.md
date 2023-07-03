@@ -9,7 +9,9 @@
 #### 👀 <a href="https://bit.ly/3vejbw6" target="_blank" >WebSite (Native Language)</a>
 
 ## GitHub Stats
-
+<head>
+<meta name="google-site-verification" content="7zcR7Rk25TSgKlR_FGZazOF9EL62Z9Y-qg1Ll4GN-sQ" />
+</head>
 <div align="left">
   <a href="https://github.com/stevenlizarzaburupezua">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=stevenlizarzaburupezua&hide=contribs,prs"/>
