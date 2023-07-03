@@ -64,5 +64,5 @@
   <a href="https://www.instagram.com/steven_lizarzaburu_pezua/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  
 </div>
-
+google-site-verification: google9d8c142873669ee1.html
 **![snake gif](https://github.com/stevenlizarzaburupezua/stevenlizarzaburupezua/blob/output/github-contribution-grid-snake.gif)**
